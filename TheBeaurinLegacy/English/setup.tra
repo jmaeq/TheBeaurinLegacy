@@ -1,0 +1,83 @@
+@0 = ~BG2:SoA - The Beaurin Legacy~
+@1 = ~Minyae~
+@2 = ~I can no longer take this asinine group.~ [QI#Mi019]
+@3 = ~What a glorious day it is.~ [QI#Mi020]
+@4 = ~This is starting to irk me.~ [QI#Mi012]
+@5 = ~Your leadership is failing this party.~ [QI#Mi023]
+@6 = ~You have finally realized my potential.~ [QI#Mi013]
+@7 = ~You will die this day!~ [QI#Mi014]
+@8 = ~You will kneel before me.~ [QI#Mi032]
+@9 = ~How eager are you to die?~ [QI#Mi028]
+@10 = ~Ugh.~ [QI#Mi027]
+@11 = ~Not like this...~ [QI#Mi021]
+@12 = ~Aid me!~ [QI#Mi030]
+@13 = ~This place brings back so many memories.~ [QI#Mi010]
+@14 = ~The stench of this city is overwhelming.~ [QI#Mi015]
+@15 = ~I find this place uncomfortable.~ [QI#Mi017]
+@16 = ~Another day to learn.~ [QI#Mi025]
+@17 = ~Ah, my favorite part of the day.~ [QI#Mi007]
+@18 = ~What do you want?~ [QI#Mi008]
+@19 = ~Yes?~ [QI#Mi011]
+@20 = ~What foolish thing do you want me to do now?~ [QI#Mi024]
+@21 = ~Hm?~ [QI#Mi009]
+@22 = ~I guess I am needed?~ [QI#Mi022] 
+@23 = ~I suppose.~ [QI#Mi002]
+@24 = ~If I must.~ [QI#Mi001]
+@25 = ~I just barely tolerate you.~ [QI#Mi006]
+@26 = ~Can you not have someone else do it?~ [QI#Mi003]
+@27 = ~This is starting to bore me.~ [QI#Mi004]
+@28 = ~Do you have anything interesting to discuss?~ [QI#Mi016]
+@29 = ~How frustrating!~ [QI#Mi031]
+@30 = ~Of course, I hit.~ [QI#Mi033]
+@31 = ~Nothing, I do nothing!~ [QI#Mi026]
+@32 = ~I am no pack mule. You can find your belongings on the ground.~ [QI#Mi005]
+@33 = ~My concentration has been broken!~ [QI#Mi029]
+@34 = ~We should rest soon.~ [QI#Mi018]
+@35 = ~When asked about her past, Minyae scoffs at you. She tells you that she cannot remember her parents or any type of family for that matter, only that her "family" was most likely dead. In fact, the only thing she can remember is that her full name is Minyae Beaurin, and that she has always had a talent for thievery and magic. "Stealing is what kept me alive when I was alone, and magic is what I used when I figured out there was an easier way to get what I wanted." She looks as if she is about to tell you more but abruptly stops in her tracks, looks at you square in the eyes, and then turns away.~
+@36 = ~Elaryn~
+@37 = ~I hope you're enjoying yourself.~ [ffight2#]
+@38 = ~~
+@40 = ~Why must you act like such a child?~ [ffight2_]
+@41 = ~I shall lead the way!~ [ffight2b]
+@42 = ~Attack!~ [ffight2a]
+@43 = ~As you wish.~ [ffight2k]
+@45 = ~Noo!~ [ffight2m]
+@46 = ~Ugh.~ [ffight2l]
+@47 = ~~
+@50 = ~Let us not waste time.~ [ffight2d]
+@51 = ~~
+@52 = ~Indeed.~ [ffight2s]
+@53 = ~Yes?~ [ffight2h]
+@54 = ~I am by your side.~ [ffight2g]
+@55 = ~I see.~ [ffight2v]
+@56 = ~Done.~ [ffight2u]
+@57 = ~No small task.~ [ffight2t]
+@58 = ~Stop doing that.~ [ffight2x]
+@59 = ~Idiot.~ [ffight2y]
+@63 = ~I can no longer carry anymore, I have left it on the ground.~
+@65 = ~I am exhausted.~ [ffight2c]
+@66 = ~When asked about her past, Elaryn's eyes grow dark. She tells you that when Minyae and her separated, she was captured along with the guard captain. Her captors tried to sell her into slavery, but she was able to gravely injure a good number of them before they halted their attack. She starts to speak more, but pauses and says that is a tale for another time.~
+@67 = ~Portrait 1 by TamikaProud at DeviantArt~
+@68 = ~Alternate 1 Minyae Portrait~
+@69 = ~Please install The Beaurin Legacy before attempting to install an alternate portrait.~
+@70 = ~Robe of Elegance~
+@71 = ~Since the age of Netheril, mages have learned to bestow a wide variety of magical properties upon the everyday objects that surround them. A favorite tiem of such enchanment is the common robe. It is lightweight, affordable, and holds its enchantment well, thereby making it ideal equipment for a mage. Due to their magicacl heritage, however, only single-, dual-, and multi-class mages may wear these enchanted robes.
+
+STATISTICS:
+
+Weight: 3~
+@72 = ~An elegant, but powerful mage robe with fur-padded shoulders that offers protection from all forms of physical attack while at the same time increasing one's Magic Resistance. Minyae has taken the liberty of increasing the elegance of the robe by adding a Charisma enchantment.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: 5
+- Magic Resistance: 5
+- Charisma: +1
+
+Weight: 6~
+@73 = ~Indeed.~ [ffight2s]
+@74 = ~My wounds need tending.~ [ffight2e]
+@75 = ~You have need of me?~ [ffight2f]
+@76 = ~Portrait 2 by DominiqueWesson at DeviantArt~
+@77 = ~Alternate 2 Minyae Portrait~
